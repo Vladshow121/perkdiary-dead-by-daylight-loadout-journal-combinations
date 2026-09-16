@@ -1,0 +1,46 @@
+{
+  "id": 48,
+  "category": "game-companion",
+  "slug": "dead-by-daylight-loadout-journal",
+  "target": "Dead by Daylight",
+  "appid": "381210",
+  "summaryRu": "Ручной каталог комплектов навыков и послематчевых наблюдений.",
+  "features": [
+    "Perk combination notebook",
+    "Role-specific loadout tags",
+    "Match review journal"
+  ],
+  "title": "PerkDiary — Dead by Daylight — Combinations",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    },
+    {
+      "type": "steam-store-presence",
+      "sourceId": "steam-top-sellers",
+      "detail": "Present in the retrieved top-seller-filtered store response; regional/session ordering may vary."
+    }
+  ],
+  "brand": "PerkDiary",
+  "repositoryName": "perkdiary-dead-by-daylight-loadout-journal-combinations",
+  "githubTopics": [
+    "dead-by-daylight",
+    "perk-planning",
+    "loadout-journal",
+    "match-notes",
+    "game-companion",
+    "manual-planning",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "combinations"
+}
